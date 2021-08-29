@@ -1,7 +1,7 @@
 Cloudinary.config do |config|
-  config.cloud_name = 'aghour-services'
-  config.api_key = '776616651239775'
-  config.api_secret = 'NP_quQBkiruNGLln19IQB85U9i0'
+  config.cloud_name = "khaledelabady11"
+  config.api_key = "772589215762873"
+  config.api_secret = "6EtKMojSfmrBn3t2UMH2wrAODCA"
   config.secure = true
   config.cdn_subdomain = true
 end
